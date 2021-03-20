@@ -1,0 +1,5 @@
+{
+  "name": "Home Assistant Add-on: magic mirror",
+  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
+  "maintainer": "Daniel Welch <dwelch2102@gmail.com>"
+}
